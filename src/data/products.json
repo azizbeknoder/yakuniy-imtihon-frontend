@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone XYZ",
+    "short_description": "Latest model with advanced features",
+    "description": "The Smartphone XYZ comes with a 6.5-inch display, 128GB storage, and a powerful processor. It also features a high-resolution camera and long-lasting battery.",
+    "price": 699.99,
+    "color": "Black",
+    "images": [
+      "https://picsum.photos/200/300?random=1",
+      "https://picsum.photos/200/300?random=2",
+      "https://picsum.photos/200/300?random=3"
+    ],
+    "seller": {
+      "username": "tech_seller",
+      "contact": "tech_seller@example.com"
+    },
+    "reviews": [
+      {
+        "username": "john_doe",
+        "rating": 5,
+        "comment": "Great phone with amazing features!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 4,
+        "comment": "Good value for money."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Laptop ABC",
+    "short_description": "High performance laptop for professionals",
+    "description": "The Laptop ABC features a 15.6-inch display, 256GB SSD, and 16GB RAM. It is perfect for both work and entertainment.",
+    "price": 999.99,
+    "color": "Silver",
+    "images": [
+      "https://picsum.photos/200/300?random=4",
+      "https://picsum.photos/200/300?random=5",
+      "https://picsum.photos/200/300?random=6",
+      "https://picsum.photos/200/300?random=7"
+    ],
+    "seller": {
+      "username": "laptop_world",
+      "contact": "laptop_world@example.com"
+    },
+    "reviews": [
+      {
+        "username": "tech_guru",
+        "rating": 5,
+        "comment": "Excellent laptop with great performance."
+      },
+      {
+        "username": "office_worker",
+        "rating": 4,
+        "comment": "Very reliable and fast."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wireless Headphones",
+    "short_description": "Comfortable and high-quality sound",
+    "description": "These wireless headphones offer superior sound quality and comfort. They come with noise-cancellation and a long battery life.",
+    "price": 199.99,
+    "color": "White",
+    "images": [
+      "https://picsum.photos/200/300?random=8",
+      "https://picsum.photos/200/300?random=9",
+      "https://picsum.photos/200/300?random=10",
+      "https://picsum.photos/200/300?random=11",
+      "https://picsum.photos/200/300?random=12"
+    ],
+    "seller": {
+      "username": "audio_expert",
+      "contact": "audio_expert@example.com"
+    },
+    "reviews": [
+      {
+        "username": "music_lover",
+        "rating": 5,
+        "comment": "Amazing sound quality and very comfortable."
+      },
+      {
+        "username": "traveler",
+        "rating": 4,
+        "comment": "Great for travel, noise-cancellation works well."
+      }
+    ]
+  }
+]
